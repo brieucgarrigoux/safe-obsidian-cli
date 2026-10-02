@@ -1,0 +1,12 @@
+{
+  "name": "safe-obsidian-cli",
+  "version": "0.1.0",
+  "description": "Drive your Obsidian vault from Claude through the official Obsidian CLI, with a safety protocol before any write. Use when reading, writing, searching, moving or linking notes in an Obsidian vault.",
+  "author": {
+    "name": "Brieuc Garrigoux",
+    "url": "https://github.com/brieucgarrigoux"
+  },
+  "repository": "https://github.com/brieucgarrigoux/safe-obsidian-cli",
+  "license": "MIT",
+  "keywords": ["obsidian", "obsidian-cli", "cli", "vault", "notes", "pkm", "markdown", "agent-skills"]
+}

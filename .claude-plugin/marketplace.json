@@ -1,0 +1,16 @@
+{
+  "name": "safe-obsidian-cli",
+  "description": "Claude skill to drive an Obsidian vault through the official Obsidian CLI, with a safety protocol before any write",
+  "owner": {
+    "name": "Brieuc Garrigoux",
+    "url": "https://github.com/brieucgarrigoux"
+  },
+  "plugins": [
+    {
+      "name": "safe-obsidian-cli",
+      "source": "./",
+      "description": "Drive your Obsidian vault from Claude through the official Obsidian CLI, safely",
+      "version": "0.1.0"
+    }
+  ]
+}
